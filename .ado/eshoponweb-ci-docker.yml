@@ -7,9 +7,9 @@ resources:
 
 variables:
   azureServiceConnection: 'azure-connection'
-  subscriptionId: 'YOUR-SUBSCRIPTION-ID'
-  resourceGroup: 'rg-az400-container-NAME'
-  location: 'westeurope'
+  subscriptionId: '03cf9e43-2b93-4adc-84d9-7fe2043db10e'
+  resourceGroup: 'rg-az400-container-jz'
+  location: 'eastus2'
 
 stages:
 - stage: Build
